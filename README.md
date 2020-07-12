@@ -1,4 +1,4 @@
-# Analise de Dados SRAG, COVID-19
+# Análise de Dados SRAG, COVID-19
 ## ADS-B 1º Semestre
 <p>Análise feita a partir dos dados disponíveis no site <b>OpenDataSUS</b>, dados requeridos no dia <b>30/06/2020</b>.
 <p>Contendo os 10 estados do Brasil com maior índice de pessoas com <b>Síndrome respiratória aguda grave (SRAG)</b>, mostrando a quantidade de pessoas que vieram a óbito e pessoas que foram curadas nesses 10 estados.
